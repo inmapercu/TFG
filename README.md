@@ -1,2 +1,2 @@
 # TFG
-Código del tfg de matemáticas
+Código y anotaciones del tfg
